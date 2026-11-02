@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img">
+ <rect width="800" height="500" fill="#e8eee2"/>
+ <rect x="40" y="40" width="720" height="420" rx="18" fill="#f8f8f3" stroke="#c9d5c4"/>
+ <text x="76" y="97" fill="#173e36" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">PROJECT OVERVIEW</text>
+ <text x="76" y="151" fill="#173e36" font-family="Arial,sans-serif" font-size="32" font-weight="700">Auto Insurance Database</text>
+ <text x="76" y="187" fill="#52675e" font-family="Arial,sans-serif" font-size="17">Three related tables · Primary and foreign keys</text>
+ 
+ <rect x="76" y="237" width="215" height="62" rx="9" fill="#dce6d4"/><text x="96" y="275" fill="#173e36" font-family="monospace" font-size="20">VEHICLE</text>
+ <rect x="76" y="314" width="215" height="62" rx="9" fill="#dce6d4"/><text x="96" y="351" fill="#173e36" font-family="monospace" font-size="20">DRIVERSLICENSE</text>
+ <path d="M291 268 H355 V306 H426 M291 345 H355 V306" fill="none" stroke="#739366" stroke-width="3"/>
+ <rect x="426" y="272" width="292" height="72" rx="9" fill="#173e36"/><text x="452" y="316" fill="white" font-family="monospace" font-size="23">AUTOINSURANCE</text>
+ <text x="76" y="427" fill="#52675e" font-family="Arial,sans-serif" font-size="13">Illustration, not a screenshot of application output.</text>
+ </svg>

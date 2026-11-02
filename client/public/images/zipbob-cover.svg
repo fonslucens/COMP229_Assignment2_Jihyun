@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img">
+ <rect width="800" height="500" fill="#e8eee2"/>
+ <rect x="40" y="40" width="720" height="420" rx="18" fill="#f8f8f3" stroke="#c9d5c4"/>
+ <text x="76" y="97" fill="#173e36" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">PROJECT OVERVIEW</text>
+ <text x="76" y="151" fill="#173e36" font-family="Arial,sans-serif" font-size="32" font-weight="700">Zipbob</text>
+ <text x="76" y="187" fill="#52675e" font-family="Arial,sans-serif" font-size="17">Agricultural information + recipe recommendations</text>
+ 
+ <rect x="76" y="239" width="180" height="115" rx="10" fill="#dce6d4"/><text x="100" y="282" fill="#173e36" font-family="Arial" font-size="18">Product &amp;</text><text x="100" y="308" fill="#173e36" font-family="Arial" font-size="18">price data</text>
+ <text x="272" y="305" fill="#587551" font-family="Arial" font-size="26">→</text>
+ <rect x="314" y="239" width="174" height="115" rx="10" fill="#173e36"/><text x="338" y="282" fill="white" font-family="Arial" font-size="18">Frontend</text><text x="338" y="308" fill="white" font-family="Arial" font-size="16">My contribution</text>
+ <text x="505" y="305" fill="#587551" font-family="Arial" font-size="26">→</text>
+ <rect x="550" y="239" width="174" height="115" rx="10" fill="#dce6d4"/><text x="572" y="282" fill="#173e36" font-family="Arial" font-size="18">Recipe</text><text x="572" y="308" fill="#173e36" font-family="Arial" font-size="18">discovery</text>
+ <text x="76" y="427" fill="#52675e" font-family="Arial,sans-serif" font-size="13">Illustration, not a screenshot of application output.</text>
+ </svg>

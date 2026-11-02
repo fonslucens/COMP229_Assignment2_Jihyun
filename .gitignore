@@ -1,0 +1,19 @@
+node_modules/
+dist/
+coverage/
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+__MACOSX/
+*.log
+.history/
+.vscode/
+
+# Supporting materials excluded from this submission
+/docs/
+/tests/
+/client/tests/
+/README_KO.md

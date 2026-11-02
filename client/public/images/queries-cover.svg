@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img">
+ <rect width="800" height="500" fill="#e8eee2"/>
+ <rect x="40" y="40" width="720" height="420" rx="18" fill="#f8f8f3" stroke="#c9d5c4"/>
+ <text x="76" y="97" fill="#173e36" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">PROJECT OVERVIEW</text>
+ <text x="76" y="151" fill="#173e36" font-family="Arial,sans-serif" font-size="32" font-weight="700">SQL Queries &amp; Maintenance</text>
+ <text x="76" y="187" fill="#52675e" font-family="Arial,sans-serif" font-size="17">Provided bookstore database + student-table exercises</text>
+ 
+ <rect x="76" y="230" width="648" height="152" rx="10" fill="#173e36"/>
+ <text x="103" y="272" fill="#dce6d4" font-family="monospace" font-size="19">SELECT  ·  DISTINCT  ·  WHERE</text>
+ <path d="M102 293 H699" stroke="#557368"/>
+ <text x="103" y="333" fill="white" font-family="monospace" font-size="19">INSERT  →  UPDATE  →  DELETE</text>
+ <text x="103" y="360" fill="#c0d0c0" font-family="monospace" font-size="13">Query records. Maintain data. Document results.</text>
+ <text x="76" y="427" fill="#52675e" font-family="Arial,sans-serif" font-size="13">Illustration, not a screenshot of application output.</text>
+ </svg>
